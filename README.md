@@ -1,3 +1,4 @@
 # Book-Recommender-System
+Python Pandas, Scikit Learn
 Book Recommender System, Content-Based, Uses Tags
-Data preprocessing, Sci-kit learn, Tag Vectorization, Cosine Similarity ML Model
+Data preprocessing, Tag Vectorization, Cosine Similarity ML Model
